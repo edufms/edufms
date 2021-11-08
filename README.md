@@ -5,16 +5,18 @@
 - 📫 How to reach me edufms@gmail.com.
 
  <div>
-  <a href="https://github.com/edufms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufms&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/edufms">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufms&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+  <a href="#"><img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+  <a href="#"><img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></a>
+  <a href="#"><img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="#"><img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="#"><img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+  <a href="#"><img align="center" alt="Edu-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></a>
 </div>
   
   ##
