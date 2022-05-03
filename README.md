@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Eduardo Francisco Machado dos Santos
-- 👀 I’m interested in Data Science with Python.
-- 🌱 I’m currently learning Python Programming.
-- 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me edufms@gmail.com.
+- 👋 Olá, Eu me chamo Eduardo Francisco Machado dos Santos
+- 👀 Estou interessado em Data Science com Python.
+- 🌱 Estou aprendendo atualmente a programar em Python.
+- 💞️ Estou em busca de colaborar em projetos de Data Science.
+- 📫 Para entrar em contato envie email para edufms@gmail.com.
 
  <div>
  <a href="https://github.com/edufms">
