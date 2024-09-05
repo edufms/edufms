@@ -12,7 +12,10 @@
 <div style="display: inline_block"><br>
   <a href="#"><img align="center" alt="Edu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="#"><img align="center" alt="Edu-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"></a> 
-  <a href="#"><img align="center" alt="Pandas" height="40" width='50" src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-line.svg"></a>
+  <a href="#"><img align="center" alt="Edu-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg"></a>
+  <a href="#"><img align="center" alt="Edu-Streamlit" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg"></a>
+  <a href="#"><img align="center" alt="Edu-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"></a>
+  <a href="#"><img align="center" alt="Edu-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></a>
 </div>
   
   ##
