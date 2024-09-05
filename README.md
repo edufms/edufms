@@ -6,7 +6,7 @@
 
  <div>
  <a href="https://github.com/edufms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edufms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=edufms&show_icons=true&theme=dracula"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edufms&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 <div style="display: inline_block"><br>
